@@ -1,0 +1,9 @@
+You're not stuck in Git itself—you're viewing the output in a pager (usually less).
+
+The (END) at the bottom means you've reached the end of the output.
+
+To exit
+
+Simply press:
+
+q
