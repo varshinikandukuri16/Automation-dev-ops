@@ -1,0 +1,7 @@
+cd /opt/ means exactly the same as cd /opt.
+
+cd = Change Directory
+/opt = The opt directory under the root (/) directory.
+The trailing / at the end is optional for directories.
+
+So these two commands are equivalent:
